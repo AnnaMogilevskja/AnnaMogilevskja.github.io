@@ -22,8 +22,8 @@ title: "Anna Mogilevskaja"
 email: amogilev@uni-bonn.de
 description: >- # this means to ignore newlines until "baseurl:"
   PhD candidate in Economics. Empirical macroeconomist.
-baseurl: "/annamogilevskja.github.io" # the subpath of your site, e.g. /blog
-url: "https://annamogilevskja.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AMogilevskaja
 github_username:  AnnaMogilevskja
 
