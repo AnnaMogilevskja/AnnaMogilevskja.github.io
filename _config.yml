@@ -28,7 +28,7 @@ twitter_username: AMogilevskaja
 github_username:  AnnaMogilevskja
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
